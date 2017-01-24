@@ -8,9 +8,7 @@ Dept. of Anthropology
 University of Texas at Austin  
 2201 Speedway Stop C3200  
 Austin, TX 78712  
-
-[email Denné](reedd@austin.utexas.edu)  
-
+reedd [AT] austin [dot] utexas [dot] edu  
 http://paleocore.org  
 
 ## 2. Core Members
