@@ -31,6 +31,7 @@ URI to the data record for the fossil specimen. How do we include multiple refer
 
 ```institutionID: ```     
 Darwin Core best practice is to point to a collection registery. What if collection and institution not registered?  How does this relate to issue #8 for rights holder?    
+   
 ```collecitonID: ```   
 See above.   
     
