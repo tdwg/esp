@@ -28,6 +28,12 @@ What citation format is recommended? see [issue #9](https://github.com/tdwg/pale
    
 ```dcterms:references:http://paleocore.org/projects/drp/810 ```   
 URI to the data record for the fossil specimen. How do we include multiple references? What is best practice for generating specimen URIs and how are they related to globally unique IDs? See [issue #10](https://github.com/tdwg/paleo/issues/10).   
+
+```institutionID:??```   
+Darwin Core best practice is to point to a collection registery. What if collection and institution not registered?  How does this relate to issue #8 for rights holder?   
+
+```collecitonID:??```    
+See above.   
     
 
 ###Occurrence###
