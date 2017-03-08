@@ -9,7 +9,7 @@ The speciment is assigned to a new species but is not the holotype. This should 
 or "http://purl.org/dc/dcmitype/PhysicalObject" See [issue #3](https://github.com/tdwg/paleo/issues/3)   
     
 ```dcterms:modified: "2017-03-07T18:37-0600"```    
-String literal represent 7 March 2017 at 6:37 PM Central Time. Should ISO 8601 be best practice? See [Issue #5](https://github.com/tdwg/paleo/issues/5).   
+String literal representing 7 March 2017 at 6:37 PM Central Time. Should ISO 8601 be best practice? See [Issue #5](https://github.com/tdwg/paleo/issues/5).   
     
 ```dcterms:language: "en"```  
 Recommended Darwin Core best practice is controlled vocabulary such as RFC 4646.   
@@ -25,6 +25,9 @@ Need documentation on how accessRights differs from dcterms:license, and some gu
     
 ```bibliographicCitation:'Geraads D, Alemseged Z, Bobe R, et al. 2011. Enhydriodon dikikae, sp. nov. (Carnivora: Mammalia), a gigantic otter from the Pliocene of Dikika, Lower Awash, Ethiopia. J Vert Paleontol 31:447–453.' ```   
 What citation format is recommended? see [issue #9](https://github.com/tdwg/paleo/issues/9).  
+   
+```dcterms:references:'http://paleocore.org/projects/drp/810'```   
+URI to the data record for the fossil specimen. How do we include multiple references? What is best practice for generating specimen URIs and how are they related to globally unique IDs? See [issue #10](https://github.com/tdwg/paleo/issues/10).   
     
 
 ###Occurrence###
