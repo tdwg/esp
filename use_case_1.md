@@ -35,26 +35,26 @@ Darwin Core best practice is to point to a collection registery. What if collect
 ```collecitonID: ```   
 See above and [issue #8](https://github.com/tdwg/paleo/issues/8)   
     
-```datasetID:```
+```datasetID: ``` 
 See above and [issue #8](https://github.com/tdwg/paleo/issues/8)   
    
 ```institutionCode:'NME' ```   
 National Museums of Ethiopia. See [issue #8](https://github.com/tdwg/paleo/issues/8)   
    
-```collectionCode:DIK```   
+```collectionCode:'DIK' ```   
 Collection area within permit area.   
 
-```datasetName:'DRP' ```   
+```datasetName: 'DRP' ```   
 Project acronym.   
    
-```ownerInstitutionCode:ARCCH ```
+```ownerInstitutionCode: 'ARCCH' ```
 'Authority for Research and Conservation of Cultural Heritage, Ethiopia'. How does this differ from dcterms:rightsHolder? [Issue #11](https://github.com/tdwg/paleo/issues/11).   
    
-```basisOfRecord:FossilSpecimen```   
+```basisOfRecord:'FossilSpecimen' ```   
 basisOfRecord refines dcterms:type, by providing a second type descriptor. Recommended best practice is to use a Darwin Core Class. As with dcterms:type there is the question of whether a string literal or URI is best. [Issue #3](https://github.com/tdwg/paleo/issues/3).   
    
 ```informationWithheld: ```
-What is best practice for indicating None?  [Issue #12](https://github.com/tdwg/paleo/issues/12).  Common concern is locality information. If locality locations are intentionally generalized, or omitted, where is the best place to indicate that? Here or one ofthe location terms?   
+What is best practice for indicating None?  [Issue #12](https://github.com/tdwg/paleo/issues/12).  If locations are intentionally generalized, or omitted, where is the best place to indicate that? Here or one of the location terms?   
    
 
 ###Occurrence###
