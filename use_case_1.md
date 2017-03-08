@@ -11,9 +11,13 @@ The speciment is assigned to a new species but is not the holotype. This should 
     
 ```dcterms:language: "en"```  Recommended Darwin Core best practice is controlled vocabulary such as RFC 4646.
 ```dcterms:license: ??```  What is recommended best practice for licensing in academic and/or commercial paleontology? See [issue #6](https://github.com/tdwg/paleo/issues/6)  
+   
 ```dcterms:rightsHolder:'Authority for Research and Conservation of Cultural Heritage, Ethiopia'``` [ARCCH](http://www.mysc.gov.et/ARCCH.html). Need a controlled vocabulary for institutions and rights holders in paleobiology.See [issue #7](https://github.com/tdwg/paleo/issues/7).  
+    
 ```dcterms:accessRights: ??``` Need documentation on how accessRights differs from dcterms:license, and some guidelines on best practices. See [issue #8](https://github.com/tdwg/paleo/issues/8).  
+    
 ```bibliographicCitation:'Geraads D, Alemseged Z, Bobe R, et al. 2011. Enhydriodon dikikae, sp. nov. (Carnivora: Mammalia), a gigantic otter from the Pliocene of Dikika, Lower Awash, Ethiopia. J Vert Paleontol 31:447–453.' ```  What citation format is recommended? see [issue #9](https://github.com/tdwg/paleo/issues/9).  
+    
 
 
 ###Occurrence###
