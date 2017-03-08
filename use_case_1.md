@@ -54,7 +54,13 @@ Project acronym.
 basisOfRecord refines dcterms:type, by providing a second type descriptor. Recommended best practice is to use a Darwin Core Class. As with dcterms:type there is the question of whether a string literal or URI is best. [Issue #3](https://github.com/tdwg/paleo/issues/3).   
    
 ```informationWithheld: ```   
-What is best practice for indicating None?  [Issue #12](https://github.com/tdwg/paleo/issues/12).  If locations are intentionally generalized, or omitted, where is the best place to indicate that? Here or one of the location terms?   
+What is best practice for indicating None?  [Issue #12](https://github.com/tdwg/paleo/issues/12).     
+   
+```dataGeneralizations: ```
+See above.    
+   
+```dynamicProperties: ```
+Best practice is to include a JSON or other encoded file.   
    
 
 ###Occurrence###
