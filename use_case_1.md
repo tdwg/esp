@@ -26,7 +26,7 @@ Need documentation on how accessRights differs from dcterms:license, and some gu
 ```bibliographicCitation:'Geraads D, Alemseged Z, Bobe R, et al. 2011. Enhydriodon dikikae, sp. nov. (Carnivora: Mammalia), a gigantic otter from the Pliocene of Dikika, Lower Awash, Ethiopia. J Vert Paleontol 31:447–453.' ```   
 What citation format is recommended? see [issue #9](https://github.com/tdwg/paleo/issues/9).  
    
-```dcterms:references:'http://paleocore.org/projects/drp/810'```   
+```dcterms:references:http://paleocore.org/projects/drp/810 ```   
 URI to the data record for the fossil specimen. How do we include multiple references? What is best practice for generating specimen URIs and how are they related to globally unique IDs? See [issue #10](https://github.com/tdwg/paleo/issues/10).   
     
 
