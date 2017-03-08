@@ -30,11 +30,35 @@ What citation format is recommended? see [issue #9](https://github.com/tdwg/pale
 URI to the data record for the fossil specimen. How do we include multiple references? What is best practice for generating specimen URIs and how are they related to globally unique IDs? See [issue #10](https://github.com/tdwg/paleo/issues/10).   
 
 ```institutionID: ```     
-Darwin Core best practice is to point to a collection registery. What if collection and institution not registered?  How does this relate to issue #8 for rights holder?    
+Darwin Core best practice is to point to a collection registery. What if collection and institution not registered?  How does this relate to [issue #8](https://github.com/tdwg/paleo/issues/8) for rights holder?    
    
 ```collecitonID: ```   
-See above.   
+See above and [issue #8](https://github.com/tdwg/paleo/issues/8)   
     
+```datasetID:```
+See above and [issue #8](https://github.com/tdwg/paleo/issues/8)   
+   
+```institutionCode:'NME' ```   
+National Museums of Ethiopia. See [issue #8](https://github.com/tdwg/paleo/issues/8)   
+   
+```collectionCode:DIK```   
+Collection area within permit area.   
+
+```datasetName:'DRP' ```   
+Project acronym.   
+   
+```ownerInstitutionCode:ARCCH ```
+'Authority for Research and Conservation of Cultural Heritage, Ethiopia'. How does this differ from dcterms:rightsHolder? [Issue #11](https://github.com/tdwg/paleo/issues/11).   
+   
+```basisOfRecord:FossilSpecimen```   
+basisOfRecord refines dcterms:type, by providing a second type descriptor. Recommended best practice is to use a Darwin Core Class. As with dcterms:type there is the question of whether a string literal or URI is best. [Issue #3](https://github.com/tdwg/paleo/issues/3).   
+   
+```informationWithheld: ```
+What is best practice for indicating None?  [Issue #12](https://github.com/tdwg/paleo/issues/12).  Common concern is locality information. If locality locations are intentionally generalized, or omitted, where is the best place to indicate that? Here or one ofthe location terms?   
+   
 
 ###Occurrence###
-```occurrenceID: "ENM-DIK-24-1"``` Need a recommended best practice for assigning truly global unique IDs to fossils. See issue ??
+```occurrenceID: "ENM-DIK-24-1"```   
+Need a recommended best practice for assigning truly global unique IDs to fossils. See 
+   
+   
