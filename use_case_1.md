@@ -14,13 +14,13 @@ String literal representing 7 March 2017 at 6:37 PM Central Time. Should ISO 860
 ```dcterms:language: "en"```  
 Recommended Darwin Core best practice is controlled vocabulary such as RFC 4646.   
    
-```dcterms:license: ??```   
+```dcterms:license: ```   
 What is recommended best practice for licensing in academic and/or commercial paleontology? See [issue #6](https://github.com/tdwg/paleo/issues/6)  
    
-```dcterms:rightsHolder:'Authority for Research and Conservation of Cultural Heritage, Ethiopia'```  
+```dcterms:rightsHolder:'Authority for Research and Conservation of Cultural Heritage, Ethiopia' ```  
 [ARCCH](http://www.mysc.gov.et/ARCCH.html). Need a controlled vocabulary for institutions and rights holders in paleobiology.See [issue #7](https://github.com/tdwg/paleo/issues/7).  
     
-```dcterms:accessRights: ??```   
+```dcterms:accessRights: ```   
 Need documentation on how accessRights differs from dcterms:license, and some guidelines on best practices. See [issue #8](https://github.com/tdwg/paleo/issues/8).  
     
 ```bibliographicCitation:'Geraads D, Alemseged Z, Bobe R, et al. 2011. Enhydriodon dikikae, sp. nov. (Carnivora: Mammalia), a gigantic otter from the Pliocene of Dikika, Lower Awash, Ethiopia. J Vert Paleontol 31:447–453.' ```   
@@ -29,10 +29,9 @@ What citation format is recommended? see [issue #9](https://github.com/tdwg/pale
 ```dcterms:references:http://paleocore.org/projects/drp/810 ```   
 URI to the data record for the fossil specimen. How do we include multiple references? What is best practice for generating specimen URIs and how are they related to globally unique IDs? See [issue #10](https://github.com/tdwg/paleo/issues/10).   
 
-```institutionID:??```   
-Darwin Core best practice is to point to a collection registery. What if collection and institution not registered?  How does this relate to issue #8 for rights holder?   
-
-```collecitonID:??```    
+```institutionID: ```     
+Darwin Core best practice is to point to a collection registery. What if collection and institution not registered?  How does this relate to issue #8 for rights holder?    
+```collecitonID: ```   
 See above.   
     
 
