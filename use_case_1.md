@@ -59,7 +59,7 @@ What is best practice for indicating None?  [Issue #12](https://github.com/tdwg/
 ```dataGeneralizations: ```
 See above.    
    
-```dynamicProperties: ```
+```dynamicProperties: ```   
 Best practice is to include a JSON or other encoded file.   
    
 
