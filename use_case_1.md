@@ -59,6 +59,6 @@ What is best practice for indicating None?  [Issue #12](https://github.com/tdwg/
 
 ###Occurrence###
 ```occurrenceID: "ENM-DIK-24-1"```   
-Need a recommended best practice for assigning truly global unique IDs to fossils. See 
+Need a recommended best practice for assigning truly global unique IDs to fossils. [Issue #13](https://github.com/tdwg/paleo/issues/13)
    
    
