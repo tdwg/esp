@@ -63,7 +63,7 @@ See above.
 Best practice is to include a JSON or other encoded file.   
    
 
-###Occurrence###
+### Occurrence
 ```occurrenceID: "ENM-DIK-24-1"```   
 Need a recommended best practice for assigning truly global unique IDs to fossils. [Issue #13](https://github.com/tdwg/paleo/issues/13)
    
