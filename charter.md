@@ -24,7 +24,7 @@ http://paleocore.org
 
 ## 3. Motivation
 
-The motivation of this interest group is to broaden the application of existing standards, such as Darwin Core and ABCD, to accommodate the large community of paleobiologists and paleobiological data now coming online.  The group also seeks to broaden the adoption of data standards and data management best practices within pale biology by improving documentation, providing examples and simplifying the use of data standards.
+The motivation of this interest group is to broaden the application of existing standards, such as Darwin Core and ABCD, to accommodate the large community of paleobiologists and paleobiological data now coming online.  The group also seeks to broaden the adoption of data standards and data management best practices within paleobiology by improving documentation, providing examples and simplifying the use of data standards.
 
 Paleobiological data span a broad range of taxonomic, geographic and temporal frames, and they are interconnected with many related domains of knowledge including climatology, geochemistry, stratigraphy, and geochronology. The Paleo interest group also seeks to network with similar efforts in related domains.
 
