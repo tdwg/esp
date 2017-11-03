@@ -5,7 +5,7 @@ This use case documents the example of a single mammalian fossil mandiblular fra
 The specimen is assigned to a new species but is not the holotype. This should be a fairly common fossil use case.
 ## Darwin Core Encoding
 ### Record-level Terms
-```dcterms:type: 'Physical Object'```   
+```dcterms:type: 'PhysicalObject'```   
 or "http://purl.org/dc/dcmitype/PhysicalObject" See [issue #3](https://github.com/tdwg/paleo/issues/3)   
     
 ```dcterms:modified: "2017-03-07T18:37-0600"```    
