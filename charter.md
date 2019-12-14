@@ -7,7 +7,11 @@
 
 ## 2. Core Members
 
-- Falko Glöckler, Holly Little, Mareike Petersen, Denné Reed
+Name | Affiliation
+--- | ---
+Falko Glöckler | Museum für Naturkunde, Berlin, Germany
+Holly Little | National Museum of Natural History, Smithsonian Institution, Washington DC, USA
+Mareike Petersen | Museum für Naturkunde, Berlin, Germany
 
 ## 3. Motivation
 
@@ -45,4 +49,4 @@
 
 ## 7. Resources
 
-- Git hub repository at https://github.com/tdwg/paleo  
+- Git hub repository at https://github.com/tdwg/esp  
