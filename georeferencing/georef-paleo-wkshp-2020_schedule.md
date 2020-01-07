@@ -18,7 +18,7 @@ This workshop will take advantage of the momentum catalyzed by funding in the US
 1. **Disseminate the findings of this workshop widely, both within the paleo collections community (including to collectors) and as a resource discoverable by other domains**. Findings will include a “toolkit” to share the recommendations on best practices and workflows determined by this workshop.
 
 ### Activities
-- Host [listening session(s)](georef-paleo-wkshp-2020_documents/listening-session.md) with workshop participants ahead of time to design the agenda unconference-style. _(pre workshop, penciled in as a webinar for January 2020)_
+- Host [listening session(s)](georef-paleo-wkshp-2020_documents/listening-session.md) with workshop participants ahead of time to design the agenda unconference-style. _(pre workshop, January 2020)_
 - Review the current quantity and quality of georeference data available for paleo specimens that are mobilized on aggregators, and of use cases for this data in the literature. _(pre workshop)_
 - Review the currently available georeferencing workflows, e.g. those produced by TCNs including non-paleo TCNs. _(pre workshop)_
 - Report on and discuss the quantity and quality of georeference data available for paleo specimens that are mobilized on aggregators; Identify key issues concerning data quality and/or standards, as well as potential solutions for resolving these issues.
