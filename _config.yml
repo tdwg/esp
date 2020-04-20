@@ -3,8 +3,8 @@
 title: TDWG Earth Science and Paleobiology Interest Group
 # email:
 description: This website is a public-facing front for the [Earth Science and Paleobiology (ESP) Interest Group](https://github.com/tdwg/esp/) of [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/).
-baseurl: ""
-url: "tdwg.github.io/esp"
+baseurl: "/esp"
+url: "ekrimmel.github.io"
 # twitter_username:
 # github_username:
 
