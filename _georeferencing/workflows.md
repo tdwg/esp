@@ -15,18 +15,12 @@ Resources on this page are related to specific workflows and workflow tools, oft
 
 ### Videos
 
-[Getting Started with the GEOLocate Collaborative Georeferencing Data Portal](https://vimeo.com/408990525)
-
-[Georeferencing with the GEOLocate Collaborative Georeferencing Data Portal](https://vimeo.com/408991069)
-
-[Georeferencing Public Land Survey System Localities](https://vimeo.com/408988862)
-
-[Using ArcGIS Pro to Double Check Georeference Results](https://vimeo.com/408986914)
-
-[Introduction to Georeferencing at LACMIP](https://vimeo.com/409784937)
-
-[Example of Georeferencing a Specific Locality at LACMIP](https://vimeo.com/409780588)
-
-[Georeferencing Fossils from Mazon Creek, Illinois](https://vimeo.com/409003066)
+{% include iframe.html videoid = "408990525" %}
+{% include iframe.html videoid = "408991069" %}
+{% include iframe.html videoid = "408988862" %}
+{% include iframe.html videoid = "408986914" %}
+{% include iframe.html videoid = "409784937" %}
+{% include iframe.html videoid = "409780588" %}
+{% include iframe.html videoid = "409003066" %}
 
 ### Links to external resources
