@@ -10,7 +10,7 @@
           {% if file.path contains include.folder %}
             {% assign filename = file.name |
               replace: "-", " " |
-              replace: "_" " - " |
+              replace: "_", " - " |
               replace: file.extname, "" %}
             <li>
               <a href = "{{ site.baseurl }}/{{ coll.label }}/{{ include.folder }}/{{ file.name }}" title = "{{ filename }}">
