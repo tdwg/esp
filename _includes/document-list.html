@@ -1,0 +1,25 @@
+<ul>
+  {% for coll in site.collections %}
+    {% if coll.label == include.label %}
+      {% for file in coll.files %}
+        {% if file.extname == '.pdf' or
+          file.extname == '.docx' or
+          file.extname == '.doc' or
+          file.extname == '.csv' or
+          file.extname == '.xlxs' %}
+          {% if file.path contains include.folder %}
+            {% assign filename = file.name |
+              replace: "-", " " |
+              replace: "_" " - " |
+              replace: file.extname, "" %}
+            <li>
+              <a href = "{{ file.path | relative_url }}" title = "{{ filename }}">
+                <span>{{ filename }}</span>
+              </a>
+            </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</ul>

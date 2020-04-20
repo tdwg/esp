@@ -1,0 +1,35 @@
+
+# Site settings
+title: TDWG Earth Science and Paleobiology Interest Group
+# email:
+description: This website is a public-facing front for the [Earth Science and Paleobiology (ESP) Interest Group](https://github.com/tdwg/esp/) of [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/).
+baseurl: ""
+url: "tdwg.github.io/esp"
+# twitter_username:
+# github_username:
+
+header_pages:
+  - README.md
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Define collections
+collections:
+  georeferencing:
+    output: true
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
