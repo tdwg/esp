@@ -3,7 +3,7 @@ layout: page
 title:  "Georeferencing Standards"
 ---
 
-Resources on this page are related to standards for georeferencing. To contribute a resource to this page, either upload files to the [georeferencing > standards directory](), or edit [this page]() to add links to external resources or videos.
+Resources on this page are related to standards for georeferencing. To contribute a resource to this page, either upload files to the [georeferencing > standards directory]({{ site.github_path }}/_{{ page.collection }}/standards), or edit [this page]({{ site.github_path }}/_{{ page.collection }}/standards.md) to add links to external resources or videos.
 
 ### Documents
 

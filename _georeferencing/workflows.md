@@ -3,7 +3,7 @@ layout: page
 title:  "Georeferencing Workflows"
 ---
 
-Resources on this page are related to specific workflows and workflow tools, often specific to an institution or collection. To contribute a resource to this page, either upload files to the [georeferencing > workflows directory](), or edit [this page]() to add links to external resources or videos.
+Resources on this page are related to specific workflows and workflow tools, often specific to an institution or collection. To contribute a resource to this page, either upload files to the [georeferencing > workflows directory]({{ site.github_path }}/_{{ page.collection }}/workflows), or edit [this page]({{ site.github_path }}/_{{ page.collection }}/workflows.md) to add links to external resources or videos.
 
 ### Documents
 

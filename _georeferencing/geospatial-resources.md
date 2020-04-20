@@ -3,7 +3,7 @@ layout: page
 title:  "Georeferencing Geospatial Resources"
 ---
 
-Resources on this page are related to geospatial resources that may be useful for georeferencing. To contribute a resource to this page, either upload files to the [georeferencing > geospatial resources directory](), or edit [this page]() to add links to external resources or videos.
+Resources on this page are related to geospatial resources that may be useful for georeferencing. To contribute a resource to this page, either upload files to the [georeferencing > geospatial resources directory]({{ site.github_path }}/_{{ page.collection }}/geospatial-resources), or edit [this page]({{ site.github_path }}/_{{ page.collection }}/geospatial-resources.md) to add links to external resources or videos.
 
 ### Documents
 

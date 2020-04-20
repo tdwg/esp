@@ -7,6 +7,7 @@ baseurl: "/esp"
 url: "ekrimmel.github.io"
 # twitter_username:
 # github_username:
+github_path: "https://github.com/ekrimmel/esp/tree/master"
 
 header_pages:
   - README.md
