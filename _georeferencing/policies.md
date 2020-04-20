@@ -27,6 +27,10 @@ is "https://player.vimeo.com/video/408990525" then the video id is "408990525"
 {% include iframe.html videoid = "408990525" source = "vimeo" %}
 -->
 
+{% include iframe.html videoid = "409848305" source = "vimeo" %}
+{% include iframe.html videoid = "409849714" source = "vimeo" %}
+{% include iframe.html videoid = "409848999" source = "vimeo" %}
+
 ### Links to external resources
 
 <!-- Add a new link to an external resource by copying the code in the line
