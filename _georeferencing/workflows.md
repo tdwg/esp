@@ -23,6 +23,10 @@ Resources on this page are related to specific workflows and workflow tools, oft
 
 [Using ArcGIS Pro to Double Check Georeference Results](https://vimeo.com/408986914)
 
+[Introduction to Georeferencing at LACMIP](https://vimeo.com/409784937)
+
+[Example of Georeferencing a Specific Locality at LACMIP](https://vimeo.com/409780588)
+
 [Georeferencing Fossils from Mazon Creek, Illinois](https://vimeo.com/409003066)
 
 ### Links to external resources
