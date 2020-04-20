@@ -13,7 +13,7 @@
               replace: "_" " - " |
               replace: file.extname, "" %}
             <li>
-              <a href = "{{ site.baseurl }}{{file.name}}" title = "{{ filename }}">
+              <a href = "{{ site.baseurl }}{{ coll.label }}/{{ include.folder }}/{{ file.name }}" title = "{{ filename }}">
                 <span>{{ filename }}</span>
               </a>
             </li>
