@@ -1,5 +1,4 @@
 ---
-layout: page
 title:  "Georeferencing Data Quality"
 ---
 
