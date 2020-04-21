@@ -4,7 +4,8 @@ contained in a given folder within a Jekyll collection -->
 <ul>
   {% for coll in site.collections %}
     {% if coll.label == include.label %}
-      {% for file in coll.files %}
+      {% assign files = coll.files | sort: 'name' %}
+      {% for file in files %}
         {% if file.extname == '.pdf' or
           file.extname == '.docx' or
           file.extname == '.doc' or
@@ -17,7 +18,7 @@ contained in a given folder within a Jekyll collection -->
               replace: file.extname, "" %}
             <li>
               <a href = "{{ site.baseurl }}/{{ coll.label }}/{{ include.folder }}/{{ file.name }}" title = "{{ filename }}">
-                <span>{{ filename }}</span>
+                <span>{{ filename }} ({{ file.extname | upcase | replace: ".", "" }})</span>
               </a>
             </li>
           {% endif %}

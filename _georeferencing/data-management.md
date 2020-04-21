@@ -14,5 +14,4 @@ Resources on this page are related to data management for georeference data, inc
 
 ### Videos
 
-
 ### Links to external resources
