@@ -3,10 +3,13 @@ that are contained in a given folder within a Jekyll collection -->
 
 <style>
     .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%; position: relative;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-    .image-gallery li a img {width: 100%; display: block;}
+    .image-gallery li a img {width: 100%; display: block; height: auto;}
+    .overlay {position: absolute; top: 0; bottom: 0; left: 0; right: 0; height: 100%; width: 100%; opacity: 0; transition: .5s ease; background-color: #749acc;}
+    .overlay-box:hover .overlay {opacity: 1;}
+    .text { color: white; position: absolute; top: 50%; left: 50%; -webkit-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); text-align: center;}
 </style>
 
 <ul class="image-gallery">
@@ -20,13 +23,19 @@ that are contained in a given folder within a Jekyll collection -->
           file.extname == '.JPEG' or
           file.extname == '.PNG' %}
           {% if file.path contains include.folder %}
-            {% assign filenameparts = file.path | split: "/" %}
-            {% assign filename = filenameparts | last | replace: file.extname,"" %}
+            {% assign filename = file.name |
+              replace: "-", " " |
+              replace: "_", " - " |
+              replace: file.extname, "" %}
             <li>
-              <a href="{{ site.baseurl }}/{{ coll.label }}/{{ include.folder }}/{{ file.name }}" title="{{ filename }}">
+              <a href="{{ site.baseurl }}/{{ coll.label }}/{{ include.folder }}/{{ file.name }}" title="{{ filename }}" class="overlay-box">
                 <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ site.baseurl }}/{{ coll.label }}/{{ include.folder }}/{{ file.name }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" />
                 <span>{{ filename }}</span>
+                <div class="overlay">
+                    <div class="text">{{ filename }}</div>
+                </div>
               </a>
+
             </li>
           {% endif %}
         {% endif %}
