@@ -2,7 +2,7 @@
 title:  "Georeferencing Standards"
 ---
 
-Resources on this page are related to standards for georeferencing. To contribute a resource to this page, either upload files to the [georeferencing > standards directory]({{ site.github_path }}/_{{ page.collection }}/standards), or edit [this page]({{ site.github_path }}/_{{ page.collection }}/standards.md) to add links to external resources or videos.
+Resources on this page are related to standards for georeferencing.
 
 ### Documents
 
@@ -11,10 +11,6 @@ Resources on this page are related to standards for georeferencing. To contribut
 ### Images
 
 {% include image-gallery.html folder="standards" %}
-
-### Videos
-
-{% include iframe.html videoid = "ssswKJjMUnE" source = "youtube" %}
 
 ### Links to external resources
 
@@ -25,3 +21,7 @@ Resources on this page are related to standards for georeferencing. To contribut
 - [Georeferencing Calculator](http://georeferencing.org/georefcalculator/gc.htm), Wieczorek & Wieczorek 2020. This is a browser-based javascript application that aids in georeferencing descriptive localities and provides methods to help obtain geographic coordinates and uncertainties for locations.
 
 - [Georeferencing Calculator Manual](https://doi.org/10.35035/gdwq-3v93), Bloom et al. 2020.
+
+### Videos
+
+{% include iframe.html videoid = "ssswKJjMUnE" source = "youtube" %}

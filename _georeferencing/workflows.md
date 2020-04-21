@@ -2,7 +2,7 @@
 title:  "Georeferencing Workflows"
 ---
 
-Resources on this page are related to specific workflows and workflow tools, often specific to an institution or collection. To contribute a resource to this page, either upload files to the [georeferencing > workflows directory]({{ site.github_path }}/_{{ page.collection }}/workflows), or edit [this page]({{ site.github_path }}/_{{ page.collection }}/workflows.md) to add links to external resources or videos.
+Resources on this page are related to specific workflows and workflow tools, often specific to an institution or collection.
 
 ### Images
 
@@ -11,6 +11,10 @@ Resources on this page are related to specific workflows and workflow tools, oft
 ### Documents
 
 {% include document-list.html folder = "workflows" label = page.collection %}
+
+### Links to external resources
+
+- [Sam Noble Museum of Natural History Paleobotany, Micropaleontology & Mineralogy Collection - Georeferencing Localities Procedures](https://samnoblemuseum.ou.edu/collections-and-research/paleobotany/paleobotany-policies-and-procedures/#SNOMNH-Pbot-GeoRefRelated)
 
 ### Videos
 
@@ -21,7 +25,3 @@ Resources on this page are related to specific workflows and workflow tools, oft
 {% include iframe.html videoid = "409784937" source = "vimeo" %}
 {% include iframe.html videoid = "409780588" source = "vimeo" %}
 {% include iframe.html videoid = "409003066" source = "vimeo" %}
-
-### Links to external resources
-
-- [Sam Noble Museum of Natural History Paleobotany, Micropaleontology & Mineralogy Collection - Georeferencing Localities Procedures](https://samnoblemuseum.ou.edu/collections-and-research/paleobotany/paleobotany-policies-and-procedures/#SNOMNH-Pbot-GeoRefRelated)
