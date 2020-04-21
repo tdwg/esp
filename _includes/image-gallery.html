@@ -15,7 +15,8 @@ that are contained in a given folder within a Jekyll collection -->
 <ul class="image-gallery">
   {% for coll in site.collections %}
     {% if coll.label == include.label %}
-      {% for file in coll.files %}
+      {% assign files = coll.files | sort: 'name' %}
+      {% for file in files %}
         {% if file.extname == '.jpg' or
           file.extname == '.jpeg' or
           file.extname == '.png' or

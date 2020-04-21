@@ -15,6 +15,7 @@ Resources on this page are related to specific workflows and workflow tools, oft
 ### Links to external resources
 
 - [Sam Noble Museum of Natural History Paleobotany, Micropaleontology & Mineralogy Collection - Georeferencing Localities Procedures](https://samnoblemuseum.ou.edu/collections-and-research/paleobotany/paleobotany-policies-and-procedures/#SNOMNH-Pbot-GeoRefRelated)
+- [LACMIP georeferencing workflow](https://lacmip.github.io/emu/documentation/georeferencing/)
 
 ### Videos
 
@@ -25,3 +26,4 @@ Resources on this page are related to specific workflows and workflow tools, oft
 {% include iframe.html videoid = "409784937" source = "vimeo" %}
 {% include iframe.html videoid = "409780588" source = "vimeo" %}
 {% include iframe.html videoid = "409003066" source = "vimeo" %}
+{% include iframe.html videoid = "YuP-hr6yvCU" source = "youtube" %}

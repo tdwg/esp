@@ -17,9 +17,10 @@ layout: default
       <h3>Contributing to this page</h3>
 
       <p>To contribute a resource to this page, either upload files to the
-      <a href="{{ site.github_path }}/{{ page.path | replace: '.md', ''}}">{{ page.collection }}/{{ page.name }} directory</a>,
-      or edit <a href="{{ site.github_path }}/{{ page.path }}">the page</a>
-      directly to add links to external resources or videos. Please see
+      <a href="{{ site.github_path }}/{{ page.path | replace: '.md', ''}}">
+        {{ page.path | replace: '.md', '' | replace: '_', ''}} directory</a>,
+        or edit <a href="{{ site.github_path }}/{{ page.path }}">the page</a>
+        directly to add links to external resources or videos. Please see
       <a href="README">this readme</a> for more detailed instructions.</p>
 
     </div>
