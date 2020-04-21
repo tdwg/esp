@@ -1,3 +1,6 @@
+<!-- This code formats and displays embedded video content that is hosted on
+either YouTube or Vimeo -->
+
 {% if include.source == "youtube" %}
   {% assign src = "https://www.youtube.com/embed/" | append: include.videoid %}
 {% elsif include.source == "vimeo" %}
