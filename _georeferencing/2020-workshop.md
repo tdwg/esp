@@ -20,9 +20,9 @@ This workshop will take advantage of the momentum catalyzed by funding in the US
 ### Planned Activities
 
 - Host two listening sessions with workshop participants ahead of time to design the agenda unconference-style. _(pre workshop)_
-    - listening session discussion prompts
-    - listening session notes
-    - challenges...
+    - [listening session discussion prompts](2020-workshop/Georeferencing-for-Paleo-Listening-Session-Intro_2020-01-29.pdf)
+    - [listening session summary](2020-workshop/Georeferencing-for-Paleo-Listening-Sessions-Summary_2020-01-29.pdf)
+    - document collecting input on georeferencing for paleo [Challenges/Resources/Scope](https://docs.google.com/spreadsheets/d/14sYGnWkaNSy2UIOM4PCACve3brfOvvjtqQnomHshKgo/edit?usp=sharing)
 - Review the current quantity and quality of georeference data available for paleo specimens that are mobilized on aggregators, and of use cases for this data in the literature. _(pre workshop)_
 - Review the currently available georeferencing workflows, e.g. those produced by TCNs including non-paleo TCNs. _(pre workshop)_
     - See resources collected in [Workflows](workflows).

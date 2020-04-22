@@ -26,6 +26,8 @@ Resources on this page are related to community standards for georeferencing.
 
 - [Darwin Core terms related to location](https://dwc.tdwg.org/terms/#location)
 
+- [Recommendations for paleo collections using Darwin Core](https://docs.google.com/document/d/13b_kMgRoRzXi0dJtpLeN_N6l3owKDh7go5-RqFDyJhc/edit?usp=sharing), this document is a work in progress; feel free to comment.
+
 ### Videos
 
 {% include iframe.html videoid = "ssswKJjMUnE" source = "youtube" %}
