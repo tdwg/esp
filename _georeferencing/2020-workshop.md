@@ -66,3 +66,15 @@ Workshop participants are contributing (April 6-17, 2020) and reviewing (April 2
 | Time | Length | Topic | Presenter |
 | --- | --- | --- | --- |
 | 09:00am MDT | 90 min | Demo & discussion on DwC and ABCD standards related to georeference data | [Holly Little](https://orcid.org/0000-0001-7909-4166) |
+
+### Workshop Results
+
+#### Who participated in this workshop?
+
+![](2020-workshop/institution-type-where-workshop-participants-are-based.png)
+
+![](2020-workshop/primary-job-of-workshop-participants.png)
+
+![](2020-workshop/workshop-participants-experience.png)
+
+![](2020-workshop/workshop-participant-involvement-in-US-NSF-ADBC-funding.png)
