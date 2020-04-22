@@ -24,6 +24,7 @@ Resources on this page are related to geospatial resources that may be useful fo
 - [Earth Point](http://www.earthpoint.us/), PLSS tools for Google Earth
 - [Getty Thesaurus of Geographic Names Online](http://www.getty.edu/research/tools/vocabularies/tgn/index.html), comprehensive resource for finding named places
 - [QGIS Natural History Collection Data Lesson](https://data-lessons.github.io/QGIS-nhcdata-lesson/), tutorial for curations managers and researchers who would like to perform spatial data visualization and analysis using Geographic Information Systems (GIS).
+- [Video showcase from the iDigBio Georeferencing Working Group](https://vimeo.com/showcase/2163673)
 
 ### Videos
 
