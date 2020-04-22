@@ -31,3 +31,4 @@ Resources on this page are related to community standards for georeferencing.
 ### Videos
 
 {% include iframe.html videoid = "ssswKJjMUnE" source = "youtube" %}
+{% include iframe.html videoid = "410688652" source = "vimeo" %}
