@@ -6,7 +6,7 @@ This site serves as a place to aggregate resources related to georeferencing for
 
 ### How this site is arranged
 
-Within this directory ([georeferencing]({{ site.baseurl }}/_georeferencing)), resources are grouped by topic, e.g. "standards." Each topic has its own subdirectory as well as its own markdown file. Currently the following topics exist (links are to subdirectories):
+Within this directory ([georeferencing]({{ site.github_path }}/_georeferencing)), resources are grouped by topic, e.g. "standards." Each topic has its own subdirectory as well as its own markdown file. Currently the following topics exist (links are to subdirectories):
 - [data-management]({{ site.github_path }}/_georeferencing/data-management)
 - [data-quality]({{ site.github_path }}/_georeferencing/data-quality)
 - [geospatial-resources]({{ site.github_path }}/_georeferencing/geospatial-resources)
