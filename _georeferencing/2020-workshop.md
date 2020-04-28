@@ -57,15 +57,25 @@ Workshop participants are contributing (April 6-17, 2020) and reviewing (April 2
 
 #### Tuesday, April 28, 2020
 
+_What standards do we have for georeference data and how we are currently using them?_
+
 | Time | Length | Topic | Presenter |
 | --- | --- | --- | --- |
-| 09:00am MDT | 90 min | Demo & discussion on what existing georeference data are available on iDigBio/GBIF | [Erica Krimmel](https://orcid.org/0000-0003-3192-0080) |
+| 09:00am MDT | 10 min | [Introduction]() | [Talia Karim](https://orcid.org/0000-0001-6514-963X) |
+| | 20 min | [Presentation]() | [Holly Little](https://orcid.org/0000-0001-7909-4166) |
+| | 20 min | [Exploring Existing Aggregator Data, Parts 1 & 2](https://ekrimmel.github.io/paleo-georeferenced-data/georef4paleo) | [Erica Krimmel](https://orcid.org/0000-0003-3192-0080) |
+| | 40 min | Group discussion | moderators |
 
 #### Wednesday, April 29, 2020
 
+_What georeferencing best practices, and documentation for implementing these best practices, already exist?_
+
 | Time | Length | Topic | Presenter |
 | --- | --- | --- | --- |
-| 09:00am MDT | 90 min | Demo & discussion on DwC and ABCD standards related to georeference data | [Holly Little](https://orcid.org/0000-0001-7909-4166) |
+| 09:00am MDT | 10 min | [Introduction]() | [Talia Karim](https://orcid.org/0000-0001-6514-963X) |
+| | 20 min | [Presentation]() | [Holly Little](https://orcid.org/0000-0001-7909-4166) |
+| | 20 min | [Exploring Existing Aggregator Data, Part 3](https://ekrimmel.github.io/paleo-georeferenced-data/georef4paleo) | [Erica Krimmel](https://orcid.org/0000-0003-3192-0080) |
+| | 40 min | Group discussion | moderators |
 
 ### Workshop Results
 
