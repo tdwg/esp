@@ -21,3 +21,5 @@ Resources on this page are related to institutional policies concerning georefer
 {% include iframe.html videoid = "409848305" source = "vimeo" %}
 {% include iframe.html videoid = "409849714" source = "vimeo" %}
 {% include iframe.html videoid = "409848999" source = "vimeo" %}
+{% include iframe.html videoid = "412946785" source = "vimeo" %}
+{% include iframe.html videoid = "412946340" source = "vimeo" %}

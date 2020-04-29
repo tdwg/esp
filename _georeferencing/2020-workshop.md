@@ -27,7 +27,7 @@ This workshop will take advantage of the momentum catalyzed by funding in the US
 - Review the currently available georeferencing workflows, e.g. those produced by TCNs including non-paleo TCNs. _(pre workshop)_
     - See resources collected in [Workflows](workflows).
 - Report on and discuss the quantity and quality of georeference data available for paleo specimens that are mobilized on aggregators; Identify key issues concerning data quality and/or standards, as well as potential solutions for resolving these issues.
-    - EK
+    - See [Exploring Existing Aggregator Data, Part 3](https://ekrimmel.github.io/paleo-georeferenced-data/georef4paleo)
 - Review current best practices for georeferencing, including but not limited to those described in the updated version of the “Guide to best practices for georeferencing” (Chapman & Wieczorek, 2006), which should be available by spring 2020.
     - See resources collected in [Standards](standards).
 - Discuss challenges and solutions specific to georeferencing paleo specimens and to sharing georeference data for paleo specimens, e.g. those related to regulations on masking coordinates.
