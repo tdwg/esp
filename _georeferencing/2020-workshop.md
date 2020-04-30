@@ -61,7 +61,7 @@ _What standards do we have for georeference data and how we are currently using 
 
 | Time | Length | Topic | Presenter |
 | --- | --- | --- | --- |
-| 09:00am MDT | 10 min | [Introduction]() | [Talia Karim](https://orcid.org/0000-0001-6514-963X) |
+| 09:00am MDT | 10 min | [Introduction](2020-workshop/Georef4Paleo_intro-outro_2020-04-28.pdf) | [Talia Karim](https://orcid.org/0000-0001-6514-963X) |
 | | 20 min | [Presentation](2020-workshop/Georef4Paleo_standards_2020-04-28.pdf) | [Holly Little](https://orcid.org/0000-0001-7909-4166) |
 | | 20 min | [Exploring Existing Aggregator Data, Parts 1 & 2](https://ekrimmel.github.io/paleo-georeferenced-data/georef4paleo) | [Erica Krimmel](https://orcid.org/0000-0003-3192-0080) |
 | | 40 min | Group discussion | moderators |
@@ -72,9 +72,8 @@ _What georeferencing best practices, and documentation for implementing these be
 
 | Time | Length | Topic | Presenter |
 | --- | --- | --- | --- |
-| 09:00am MDT | 10 min | [Introduction]() | [Talia Karim](https://orcid.org/0000-0001-6514-963X) |
-| | 20 min | [Presentation]() | [Holly Little](https://orcid.org/0000-0001-7909-4166) |
-| | 20 min | [Exploring Existing Aggregator Data, Part 3](https://ekrimmel.github.io/paleo-georeferenced-data/georef4paleo) | [Erica Krimmel](https://orcid.org/0000-0003-3192-0080) |
+| 09:00am MDT | 10 min | [Introduction](2020-workshop/Georef4Paleo_intro-outro_2020-04-29.pdf) | [Talia Karim](https://orcid.org/0000-0001-6514-963X) |
+| | 40 min | [Presentation](2020-workshop/Georef4Paleo_guidelines_2020-04-29.pdf) | [Holly Little](https://orcid.org/0000-0001-7909-4166) & [Erica Krimmel](https://orcid.org/0000-0003-3192-0080) |
 | | 40 min | Group discussion | moderators |
 
 ### Workshop Results
