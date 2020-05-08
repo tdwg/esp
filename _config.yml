@@ -8,6 +8,7 @@ url: "tdwg.github.io"
 # twitter_username:
 # github_username:
 github_path: "https://github.com/tdwg/esp/tree/master"
+google_analytics: "UA-165980209-1"
 
 header_pages:
   - README.md
