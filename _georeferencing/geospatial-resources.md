@@ -62,6 +62,7 @@ Resources on this page are related to geospatial resources that may be useful fo
 - [View Section/Township/Range on Google Maps](https://www.randymajors.com/p/township-range-on-google-maps.html)
 - [Statement on U.S. Geologic Survey map accuracy standards](https://pubs.usgs.gov/fs/1999/0171/report.pdf)
 - [On X Maps](https://www.onxmaps.com/), for public/private land boundaries and more
+- [University of Texas at Austin georeferencing resources](https://wikis.utexas.edu/display/specify6/Geo-referencing+Resources)
 
 ### Videos
 
