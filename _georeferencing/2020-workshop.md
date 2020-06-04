@@ -44,7 +44,7 @@ This workshop will take advantage of the momentum catalyzed by funding in the US
 _**Times below are listed in Salt Lake City, Utah, United States local time (MDT). Virtual conference sessions are being held via Zoom.**_
 
 Some essential links for this workshop...
-- Collaborative notes document: [https://bit.ly/3eEpkag](https://bit.ly/3eEpkag)
+- Collaborative notes document: [archived here](2020-workshop/Georeferencing-for-Paleo-Workshop-Notes_2020-06-04.pdf)
 - Tips for using Zoom: [https://bit.ly/2wV6j2v](https://bit.ly/2wV6j2v)
 - Virtual workshop participant introductions: [https://bit.ly/2wXvO3a](https://bit.ly/2wXvO3a)
 - Shared workshop content: [https://tdwg.github.io/esp/georeferencing/workflows](https://tdwg.github.io/esp/georeferencing/workflows) (this site)
@@ -77,6 +77,8 @@ _What georeferencing best practices, and documentation for implementing these be
 | | 40 min | Group discussion | moderators |
 
 ### Workshop Results
+
+Please see this [post-workshop blog](https://www.idigbio.org/content/workshop-report-georeferencing-paleo) for more.
 
 #### Who participated in this workshop?
 
