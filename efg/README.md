@@ -16,7 +16,8 @@ The Access to Biological Collections Data (ABCD) schema is designed to facilitat
 Charles Copp, Markus Döring, Herman Goethals, Lutz Hecht, Jörg Holetschek, Robert Huber, Ken Johnson, Wolfgang Kiessling, Jens Klump, David Lazarus, Heike Mewis, Evgeniy Meyke, Mietta Petronio, Milena Pika-Biolzi, Willem Renema, Adrian Rissoné, Ralf-Thomas Schmitt, Dave Smith, Fedor Steeman
 
 ## Recommended Citation
-*Current citation*: Kiessling, Wolfgang; Petersen, Mareike, Glöckler, Falko; Hoffmann, Jana; & Döring, Markus (2017): Access to Biological Collection Data Extended for Geosciences (ABCDEFG)
+Petersen, M., Glöckler, F., Kiessling, W., Döring, M., Fichtmüller, D., Laphakorn, L., Baltruschat, B. & Hoffmann, J. (2018). *History and development of ABCDEFG: a data standard for geosciences.* Fossil Record, 21(1), 47-53. https://doi.org/10.5194/fr-21-47-2018
+
 *Original Citation*: Kiessling, Wolfgang; Rissoné, Adrian; Copp, Charles; Döring, Markus & Mewis, Heike (2006): The EFG extension to the ABCD schema
 
 ## Background
