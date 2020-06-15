@@ -17,6 +17,7 @@ Resources on this page are related to geospatial resources that may be useful fo
 #### Georeferencing applications
 
 - [GEOLocate](https://www.geo-locate.org/), platform commonly used for georeferencing in natural history collections
+- [DIEA Georeferencing Calculator](http://41.242.99.131/sigcalc/source/gci2.html), alternative to the ManisNet georeferencing calculator, as that one seems to be down
 
 #### Geologic unit names
 
